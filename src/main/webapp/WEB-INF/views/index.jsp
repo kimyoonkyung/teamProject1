@@ -116,7 +116,7 @@
 	<jsp:include page="common/headerMain.jsp" />
     <div class="services_section layout_padding" id="join">
         <div class="container">
-            <h1 class="services_taital">서비스 소개</h1>
+            <h1 class="services_taital">서비스 소개asdasd</h1>
             <p class="services_text">누구보다 빠르고 정확하게 정보를 확인하세요!</p>
             <div class="services_section_2">
                 <div class="row">
